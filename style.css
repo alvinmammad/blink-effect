@@ -1,0 +1,13 @@
+input {
+  width: 35px;
+  height: 35px;
+}
+.changableColorDiv {
+  margin-top: 10px;
+  width: 50px;
+  height: 50px;
+  transition: all 0.1s ease;
+}
+#colorInput{
+    width: 8%;
+}
